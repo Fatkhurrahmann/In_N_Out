@@ -1,0 +1,19 @@
+
+.content{
+    padding: 1em;
+}
+
+.hero img {
+    width: 200px;
+}
+.hero h1 {
+    font-size: 2em;
+    font-weight: 300;
+    color: #000000;
+}
+ 
+.hero p {
+    font-weight: 300;
+    line-height: 1.3em;
+    color: #2d5054;
+}
